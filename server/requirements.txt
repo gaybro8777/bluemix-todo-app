@@ -1,2 +1,2 @@
-pubnub==3.7.3
+pubnub==7.3.0
 ibm_db
